@@ -582,7 +582,7 @@ textarea {
 
 .project-cs-hero {
   color: #fff;
-  background: repeating-radial-gradient(blue, lightblue);
+  background: blue;
   background-size: cover;
   background-position: center;
   position: relative;
@@ -864,7 +864,7 @@ p {
 }
 
 .main-footer {
-  background: #000;
+  background: lightgrey;
   color: #fff;
 
 }
