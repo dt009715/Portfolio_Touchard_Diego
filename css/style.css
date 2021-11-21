@@ -864,7 +864,7 @@ p {
 }
 
 .main-footer {
-  background: grey;
+  background: rgba(90, 90, 90, 0.178);
   color: #fff;
 
 }
